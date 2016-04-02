@@ -2,6 +2,17 @@ twitch
 ------
 Get list of `Dota 2` streams from command line and open `twitch` `Dota 2` stream from command line
 
+# Install
+
+Install Livestreamer
+--------------------
+go to https://github.com/chrippa/livestreamer/releases
+find any link called win32-setup.exe
+for example https://github.com/chrippa/livestreamer/releases/download/v1.12.2/livestreamer-v1.12.2-win32-setup.exe
+
+Install mpc-hc
+--------------
+Go to https://sourceforge.net/projects/mpc-hc/ and install
 
 Usage
 -----
@@ -54,4 +65,9 @@ romaxaa                      257 кальян на ананасе
 cartmanzbs                   239 CarTmaN BAHAEM 5500 RUSSIAN SERVER (o_o')
 siractionslacks              228 Subber Sat -You Play I Cast-
 ```
-  
+
+![psdemo.png](psdemo.png)
+
+![player](player.png)
+
+![cpu](cpu.png) 
