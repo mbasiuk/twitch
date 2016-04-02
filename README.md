@@ -70,4 +70,13 @@ siractionslacks              228 Subber Sat -You Play I Cast-
 
 ![player](player.png)
 
-![cpu](cpu.png) 
+CPU in LiveStreamer
+-------------------
+![cpu](cpu.png)
+
+CPU in Web Player
+-----------------
+
+![webPlayer](webPlayer.png)
+
+
