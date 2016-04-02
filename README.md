@@ -1,23 +1,36 @@
-# twitch
-Get list of Dota 2 streams from command line and open twitch Dota 2 stream from command line
+twitch
+------
+Get list of `Dota 2` streams from command line and open `twitch` `Dota 2` stream from command line
 
 
-Usage:
+Usage
+-----
 
-Start Windows Powerhell
-Navigate where Get-Streams.ps1 and Open-Stream.ps1 live
+Start `Windows Powerhell`
+Navigate where `Get-Streams.ps1` and `Open-Stream.ps1` live
+
+```powershell
  PS> cd C:\Users\...\GitHub\twitch (enter)
+```
+
 Execute the script:
+
+```powershell
  PS> .\Get-Streams.ps1 (enter)
+```
 
-Or from cmd:
+Or from `cmd`:
+```cmd
   powershell -noexit "& ""C:\Users\...\GitHub\Get-Streams.ps1""" (enter)
-  
-  
+```
+
+```powershell  
 PS D:\twitch> .\Get-Streams.ps1
-
+```
 Sample of output:
+----------------
 
+```powershell 
 channel                  viewers status
 -------                  ------- ------
 starladder1                39463 C9 vs Vega || SLTV XII Europe Group C, Day 2 || by @GodHunt_SLTV
@@ -40,5 +53,5 @@ foxido                       258 Первые стримы с русскими �
 romaxaa                      257 кальян на ананасе
 cartmanzbs                   239 CarTmaN BAHAEM 5500 RUSSIAN SERVER (o_o')
 siractionslacks              228 Subber Sat -You Play I Cast-
-
+```
   
